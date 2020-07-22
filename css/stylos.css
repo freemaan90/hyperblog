@@ -43,6 +43,9 @@ body {
 	background: white;
 	padding: 1em;
 }
+#post img {
+	width: 100%;
+}
 #footer {
 	background: #777;
 	color: white;
